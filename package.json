@@ -1,0 +1,17 @@
+{
+  "name": "microcosm",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Flux Microcosm for Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/microcosm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+     "request": "*",
+     "loophole": ""
+  }
+}
